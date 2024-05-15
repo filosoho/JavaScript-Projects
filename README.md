@@ -25,6 +25,5 @@
 
 4. [Bankist Webapp](https://bankist-webapp-js.netlify.app/)
 5. [Mapty](https://mapty-js-map.netlify.app/)
-6. [Geolocation](https://geolocation-card.netlify.app/)
-
-(The response here can be quite slow and you might need to press the button couple of times)
+6. [Geolocation](https://geolocation-card.netlify.app/)  
+   (The response here can be quite slow and you might need to press the button couple of times)
