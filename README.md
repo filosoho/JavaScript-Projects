@@ -27,3 +27,5 @@
 5. [Mapty](https://mapty-js-map.netlify.app/)
 6. [Geolocation](https://geolocation-card.netlify.app/)  
    (The response here can be quite slow and you might need to press the button couple of times)
+7. [Forkify](https://forkify-recipes-js.netlify.app/)  
+   Find your favourite recipe!
