@@ -21,22 +21,25 @@ html {
 }
 
 body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-family: 'Ubuntu', sans-serif;
   font-weight: 400;
   height: 100vh;
   color: #003c5d;
   /* background-image: linear-gradient(to top left, #eb00a0 0%, #ffcf00 85%); */
-  background-image: url('bg.png');
+  background-image: url('bg.avif');
   background-size: cover;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  background-position: 50% 50%;
 }
 
 /* LAYOUT */
-main {
+.game-container {
   position: relative;
-  width: 100rem;
+  display: flex;
+  justify-content: center;
+  width: 80vw;
   height: 60rem;
   background-color: rgb(162 233 239 / 35%);
   backdrop-filter: blur(15px);
@@ -44,7 +47,6 @@ main {
   box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.25);
   border-radius: 50px;
   overflow: hidden;
-  display: flex;
 }
 
 .player {
@@ -89,6 +91,7 @@ main {
 }
 
 .current {
+  display: flex;
   background-color: #007fb2;
   opacity: 0.8;
   border-radius: 50px;
@@ -97,6 +100,9 @@ main {
   padding: 2rem;
   text-align: center;
   transition: all 0.75s;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .current-label {

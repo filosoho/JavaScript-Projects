@@ -1,0 +1,105 @@
+@media only screen and (max-width: 1200px) {
+  .player {
+    padding: 9rem 5rem;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .name {
+    font-size: 2.5rem;
+  }
+
+  .score {
+    font-size: 6rem;
+  }
+
+  .current-label {
+    font-size: 1.2rem;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .game-container {
+    flex-direction: column;
+  }
+
+  .btn--new {
+    top: 2rem;
+  }
+
+  .player {
+    padding: 8rem 3rem 1rem;
+  }
+
+  .current {
+    border-radius: 20px;
+    width: 30%;
+    padding: 1.5rem;
+  }
+
+  .name {
+    font-size: 2rem;
+  }
+
+  .score {
+    font-size: 4rem;
+    margin-bottom: 10px;
+  }
+
+  .current-score {
+    font-size: 2.5rem;
+  }
+
+  .game-container {
+    height: 65rem;
+  }
+
+  .dice {
+    top: 28.5rem;
+    height: 8rem;
+  }
+
+  .btn {
+    font-size: 1.2rem;
+  }
+
+  .btn--roll {
+    top: 30.5rem;
+    left: 18%;
+    padding: 1.3rem 2rem;
+  }
+
+  .btn--hold {
+    top: 30.5rem;
+    left: 80%;
+    padding: 1.3rem 2.2rem;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .game-container {
+    width: 95vw;
+  }
+
+  .current-score {
+    font-size: 2rem;
+  }
+
+  .current-label {
+    font-size: 1rem;
+  }
+
+  .dice {
+    top: 29.5rem;
+    height: 6rem;
+  }
+
+  .btn {
+    font-size: 1rem;
+  }
+
+  .btn--roll {
+    left: 18.8%;
+    padding: 1.3rem 1.6rem;
+  }
+}
