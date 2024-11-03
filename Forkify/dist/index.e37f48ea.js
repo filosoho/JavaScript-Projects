@@ -2879,7 +2879,7 @@ class RecipeView extends (0, _viewJsDefault.default) {
       href="${this._data.sourceUrl}"
       target="_blank"
     >
-      <span>Directions</span>
+      <span>Full Recipe</span>
       <svg class="search__icon">
         <use href="${0, _iconsSvgDefault.default}#icon-arrow-right"></use>
       </svg>

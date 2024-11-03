@@ -1,6 +1,8 @@
 .header {
   grid-area: head;
-  background-color: $color-grey-light-1;
+  // background-color: $color-grey-light-1;
+  // background: linear-gradient(to bottom right, #bf170c, #f4c03b);
+  background-color: #200d02;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -30,6 +32,7 @@
     background: none;
     font-family: inherit;
     color: inherit;
+    color: #62372f;
     font-size: 1.7rem;
     width: 30rem;
 
@@ -100,6 +103,7 @@
 
     &:hover {
       background-color: $color-grey-light-2;
+      background-color: #968687;
     }
   }
 }
@@ -111,7 +115,7 @@
   right: -2.5rem;
   z-index: 10;
   width: 40rem;
-  background-color: #fff;
+  background-color: #301e13;
   box-shadow: 0 0.8rem 5rem 2rem rgba($color-grey-dark-1, 0.1);
 
   visibility: hidden;

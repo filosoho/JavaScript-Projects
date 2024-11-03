@@ -113,7 +113,7 @@ class RecipeView extends View {
       href="${this._data.sourceUrl}"
       target="_blank"
     >
-      <span>Directions</span>
+      <span>Full Recipe</span>
       <svg class="search__icon">
         <use href="${icons}#icon-arrow-right"></use>
       </svg>
