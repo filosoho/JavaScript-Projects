@@ -126,7 +126,12 @@
 
 @media only screen and (max-width: 480px) {
   .results{
-    justify-content: space-around;
+    justify-content: flex-start;
+    padding-inline: 2rem;
+  }
+
+  .search-results {
+    padding: 3rem;
   }
 
 }

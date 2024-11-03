@@ -545,7 +545,7 @@ body {
 
 @media only screen and (width <= 480px) {
   .preview__link:link, .preview__link:visited {
-    width: 200px;
+    width: 100%;
     padding: 1.5rem 1rem;
   }
 }
@@ -651,7 +651,12 @@ body {
 
 @media only screen and (width <= 480px) {
   .results {
-    justify-content: space-around;
+    justify-content: flex-start;
+    padding-inline: 2rem;
+  }
+
+  .search-results {
+    padding: 3rem;
   }
 }
 
