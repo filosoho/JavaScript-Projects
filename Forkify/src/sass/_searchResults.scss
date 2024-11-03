@@ -62,11 +62,14 @@
 }
 
 .copyright {
-  color: $color-grey-dark-2;
-  color: rgb(247, 242, 242);
-  font-size: 1.2rem;
-  padding: 0 3.5rem;
+  display: flex;
+  color: #f7f2f2;
   margin-top: 4rem;
+  margin-bottom: 2rem;
+  padding: 0 3.5rem;
+  font-size: 1.2rem;
+  align-items: center;
+  justify-content: center;
 
   .twitter-link:link,
   .twitter-link:visited {

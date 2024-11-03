@@ -608,9 +608,13 @@ body {
 
 .copyright {
   color: #f7f2f2;
+  justify-content: center;
+  align-items: center;
   margin-top: 4rem;
+  margin-bottom: 2rem;
   padding: 0 3.5rem;
   font-size: 1.2rem;
+  display: flex;
 }
 
 .copyright .twitter-link:link, .copyright .twitter-link:visited {
@@ -853,7 +857,6 @@ body {
   .recipe__title {
     width: 180px;
     font-size: 1.8rem;
-    top: 82%;
   }
 
   .recipe__ingredient-list {
