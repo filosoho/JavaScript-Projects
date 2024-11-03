@@ -6,6 +6,7 @@
   flex-direction: column;
   padding: 3rem 0;
   display: flex;
+  flex: 1;
   z-index: 1;
 
   &::before {
@@ -103,8 +104,16 @@
     background-size: 590%;
 }
 
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 4rem;
+}
+
   .pagination {
-    padding: 0 0.5rem;
+    padding-inline: 2rem;
 }
 
 .copyright {
@@ -113,5 +122,8 @@
 }
 
 @media only screen and (max-width: 480px) {
+  .results{
+    justify-content: space-around;
+  }
 
 }

@@ -68,6 +68,7 @@
 
       &::placeholder {
         color: $color-grey-light-3;
+        color: rgb(123, 123, 123);
       }
 
       &:focus {
@@ -97,3 +98,34 @@
     justify-self: center;
   }
 }
+
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (max-width: 767px) {
+  .add-recipe-window {
+    width: 100vw;
+    padding: 4rem 5rem;
+  }
+
+  .upload {
+    grid-template-columns: 1fr;
+  }
+
+  .upload__column {
+    grid-template-columns: 0.5fr 1fr;
+    gap: 0.5rem;
+}
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+
+
+
+
