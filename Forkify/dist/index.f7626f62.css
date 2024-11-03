@@ -460,7 +460,7 @@ body {
 .preview__fig:before {
   content: "";
   opacity: .4;
-  background-image: linear-gradient(to bottom right, #f4c03b, #bf170c);
+  background-image: linear-gradient(to bottom right, #fbebc063, #7f150ed1);
   width: 100%;
   height: 100%;
   display: block;

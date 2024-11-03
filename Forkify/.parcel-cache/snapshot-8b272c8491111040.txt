@@ -1,10 +1,7 @@
-9787
+9782
 76/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/img/favicon.png1730643577521376616 0
-85/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/img/old-icon/favicon.png1730643260315704937 0
-82/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/img/old-icon/logo.png1730643126817845993 0
-86/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/img/old-icon/favicon1.png1644221921000000000 0
 75/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/img/burger.png1728573627271521378 0
-64/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/img1730504683204386808 1
+64/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/img1730643627765325242 1
 87/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/js/views/paginationView.js1716482684947400109 0
 83/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/js/views/recipeView.js1730638832500895803 0
 86/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/js/views/bookmarksView.js1716570902158468764 0
@@ -356,7 +353,7 @@
 91/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/stable/string1716223259957778954 1
 99/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/stable/parse-float.js1716223259245779494 0
 106/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/stable/date/to-iso-string.js1716223259685779160 0
-79/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/sass/_preview.scss1730639819513729882 0
+79/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/sass/_preview.scss1730643800168149886 0
 101/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/stable/date/get-year.js1716223258773779852 0
 101/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/stable/date/set-year.js1716223259381779391 0
 95/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/internals/path.js1716223259253779488 0
@@ -2377,7 +2374,6 @@
 100/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/js-yaml/lib/schema/failsafe.js1716211079287433379 0
 96/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/js-yaml/lib/schema/core.js1716211079183433575 0
 88/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/js-yaml/lib/schema1716211079527432929 1
-83/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/img/old-icon/logo1.png1644221921000000000 0
 94/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/js-yaml/lib/exception.js1716211079279433395 0
 93/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/js-yaml/lib/type/map.js1716211079575432838 0
 93/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/js-yaml/lib/type/int.js1716211079347433267 0
@@ -3286,7 +3282,7 @@
 113/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@swc/helpers/cjs/_await_async_generator.cjs1716211079279433395 0
 124/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/csso/node_modules/css-tree/cjs/lexer/generic-const.cjs1716211079923432183 0
 123/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/css-select/node_modules/domutils/lib/esm/index.js.map1716211079559432868 0
-80/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist/index.f7626f62.css1730643520417435186 0
+80/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist/index.f7626f62.css1730643578681375429 0
 123/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@babel/highlight/node_modules/color-convert/README.md1716211079147433643 0
 101/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/caniuse-lite/data/regions/CV.js1716211080691430741 0
 99/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@parcel/watcher/index.js.flow1716211078883434140 0
@@ -3466,7 +3462,7 @@
 101/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/caniuse-lite/data/regions/HU.js1716211080855430433 0
 127/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@parcel/runtime-js/src/helpers/browser/import-polyfill.js1716211079531432920 0
 116/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/caniuse-lite/data/features/speech-synthesis.js1716211081031430102 0
-80/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist/icons.dfd7a6db.svg1730643520417435186 0
+80/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist/icons.dfd7a6db.svg1730643578698375412 0
 98/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/escape-string-regexp/license1716211078903434103 0
 111/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/full/dom-exception/constructor.js1716223258105780360 0
 98/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@parcel/transformer-posthtml1716211079095433741 1
@@ -3936,7 +3932,7 @@
 107/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@parcel/utils/src/prettyDiagnostic.js1716211080207431649 0
 112/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/caniuse-lite/data/features/transforms3d.js1716211081055430057 0
 112/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/caniuse-lite/data/features/font-feature.js1716211080803430530 0
-80/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist/icons.21bad73c.svg1730643520418435185 0
+80/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist/icons.21bad73c.svg1730643578698375412 0
 122/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/actual/async-disposable-stack/constructor.js1716223258093780369 0
 121/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/csso/node_modules/mdn-data/css/at-rules.schema.json1716211079251433448 0
 115/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/caniuse-lite/data/features/css-transitions.js1716211080651430815 0
@@ -4983,7 +4979,7 @@
 104/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@parcel/workers/lib/core-worker.js1716211079335433290 0
 121/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@swc/helpers/cjs/_class_private_field_loose_key.cjs1716211079483433011 0
 137/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/caniuse-lite/data/features/mdn-css-unicode-bidi-isolate-override.js1716211080939430275 0
-61/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist1730641340893901415 1
+61/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist1730643578712375397 1
 96/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/color-convert/package.json1716211078859434185 0
 146/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/MediaFeature.js1716211080347431386 0
 101/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/actual/regexp/sticky.js1716223259457779333 0
@@ -6393,7 +6389,7 @@
 102/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/internals/string-trim.js1716223259485779312 0
 102/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/core-js/full/instance/reverse.js1716223259329779431 0
 121/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/caniuse-lite/data/features/constraint-validation.js1716211080299431476 0
-84/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist/index.f7626f62.css.map1730643520425435178 0
+84/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/dist/index.f7626f62.css.map1730643578710375399 0
 117/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/@parcel/core/src/requests/BundleGraphRequest.js1716211080027431988 0
 99/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/ordered-binary/dist/index.cjs1716211078911434087 0
 105/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/css-tree/cjs/syntax/atrule/nest.cjs1716211080179431703 0
@@ -7327,7 +7323,6 @@
 104/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/svgo/plugins/removeRasterImages.js1716211080315431447 0
 124/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/csso/node_modules/css-tree/lib/syntax/config/parser.js1716211080719430688 0
 86/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/escalade/license1716211078851434201 0
-73/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/src/img/old-icon1730643280899683373 1
 91/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/escalade/package.json1716211078995433930 0
 101/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/caniuse-lite/data/regions/HK.js1716211080847430447 0
 97/home/anna/Dropbox/VSC-Ubuntu/JavaScriptProjects/Forkify/node_modules/htmlparser2/lib/Parser.d.ts1716211079371433221 0

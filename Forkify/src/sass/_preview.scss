@@ -39,11 +39,12 @@
       position: absolute;
       top: 0;
       left: 0;
-      background-image: linear-gradient(
-        to right bottom,
-        $color-grad-1,
-        $color-grad-2
-      );
+      // background-image: linear-gradient(
+      //   to right bottom,
+      //   $color-grad-1,
+      //   $color-grad-2
+      // );
+      background-image: linear-gradient(to bottom right, #fbebc063, #7f150ed1);
       opacity: 0.4;
     }
 
