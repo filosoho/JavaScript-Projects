@@ -524,6 +524,7 @@ body {
 
 @media only screen and (width <= 767px) {
   .preview__link:link, .preview__link:visited {
+    width: 210px;
     padding: 1.5rem .5rem;
   }
 
@@ -535,11 +536,6 @@ body {
     flex: 0 0 4.8rem;
     height: 4.8rem;
     margin-right: 1rem;
-  }
-
-  .preview__link:link, .preview__link:visited {
-    width: 210px;
-    padding: 1.5rem .5rem;
   }
 }
 

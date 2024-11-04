@@ -9,7 +9,6 @@
     width: 100%;
     height: 32rem;
     position: relative;
-    // transform: scale(1.04) translateY(-1px);
     transform-origin: top;
 
     &::before {
@@ -125,8 +124,6 @@
     padding: 5rem 8rem;
     font-size: 1.6rem;
     line-height: 1.4;
-    // background-color: $color-grey-light-2;
-    // background-color: #3a241c;
     background-color: #301e13;
     display: flex;
     flex-direction: column;
@@ -172,8 +169,6 @@
     font-size: 1.7rem;
     text-align: center;
     margin-bottom: 3.5rem;
-    // color: $color-grey-dark-2;
-    // color: #5A524E;
   }
 
   &__publisher {
@@ -181,24 +176,15 @@
   }
 }
 
-
-@media only screen and (max-width: 1200px) {
-}
-
-@media only screen and (max-width: 1023px) {
-}
-
 @media only screen and (max-width: 767px) {
+  .recipe__title {
+    font-size: 2.5rem;
+    width: 250px;
+  }
 
-
-.recipe__title {
-  font-size: 2.5rem;
-  width: 250px;
-}
-
-.recipe__info {
-  font-size: 1.4rem;
-}
+  .recipe__info {
+    font-size: 1.4rem;
+  }
 }
 
 @media only screen and (max-width: 480px) {

@@ -10,30 +10,26 @@
   z-index: 1;
 
   &::before {
-    content: "";
+    content: '';
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-                url('../img/burger.png');
-    background-image: linear-gradient(#240c00e0, #100000c2), url('../img/burger.png');
-                
+      url('../img/burger.png');
+    background-image: linear-gradient(#240c00e0, #100000c2),
+      url('../img/burger.png');
     background-size: 320%;
     background-position: 30%;
     background-repeat: no-repeat;
-
-    filter: blur(8px); 
+    filter: blur(8px);
     z-index: -1;
-
   }
-      
 }
 
 .overlay-recipe {
   backdrop-filter: blur(10px);
-
 }
 
 .results {
@@ -78,23 +74,6 @@
   }
 }
 
-
-// @media only screen and (max-width: 1200px) {
-// }
-
-// @media only screen and (max-width: 1023px) {
-// }
-
-// @media only screen and (max-width: 767px) {
-// }
-
-// @media only screen and (max-width: 480px) {
-
-// }
-
-@media only screen and (max-width: 1200px) {
-}
-
 @media only screen and (max-width: 1023px) {
   .search-results:before {
     background-size: 390%;
@@ -102,30 +81,29 @@
 }
 
 @media only screen and (max-width: 767px) {
-
   .search-results:before {
     background-size: 590%;
-}
+  }
 
-.results {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
-  margin-bottom: 4rem;
-}
+  .results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 4rem;
+  }
 
   .pagination {
     padding-inline: 2rem;
-}
+  }
 
-.copyright {
-  padding: 0 4.5rem;
-}
+  .copyright {
+    padding: 0 4.5rem;
+  }
 }
 
 @media only screen and (max-width: 480px) {
-  .results{
+  .results {
     justify-content: flex-start;
     padding-inline: 2rem;
   }
@@ -133,5 +111,4 @@
   .search-results {
     padding: 3rem;
   }
-
 }

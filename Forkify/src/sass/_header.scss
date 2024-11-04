@@ -1,17 +1,10 @@
 .header {
-  // grid-area: head;
-  // background-color: $color-grey-light-1;
-  // background: linear-gradient(to bottom right, #bf170c, #f4c03b);
-  // background-color: #200d02;
-  // display: flex;
-  // align-items: center;
-  // justify-content: space-between;
   background-color: #200d02;
-    grid-area: head;
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-    padding: 2rem;
+  grid-area: head;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  padding: 2rem;
 
   &__logo {
     margin-left: 4rem;
@@ -117,7 +110,6 @@
 .bookmarks {
   padding: 1rem 0;
   position: absolute;
-  // right: 0;
   right: -2.5rem;
   z-index: 10;
   width: 40rem;
@@ -153,12 +145,6 @@
   }
 }
 
-@media only screen and (max-width: 1200px) {
-}
-
-@media only screen and (max-width: 1023px) {
-}
-
 @media only screen and (max-width: 767px) {
   .header {
     flex-wrap: wrap;
@@ -180,8 +166,8 @@
     margin-left: 2rem;
   }
 
-.bookmarks {
-  width: 210px;
+  .bookmarks {
+    width: 210px;
   }
 }
 
@@ -195,6 +181,4 @@
     padding: 1rem 0;
     right: 0;
   }
-
 }
-
